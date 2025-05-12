@@ -50,8 +50,8 @@ pip install -r requirements.txt
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourname/eams-weather-push.git
-cd eams-weather-push
+git clone https://github.com/1848431227/shuwei-eams-schedule-push.git
+cd shuwei-eams-schedule-push
 
 # 安装依赖
 pip install -r requirements.txt
