@@ -85,8 +85,6 @@ WXPUSHER_TOPIC_ID=your_topic_id
 WXPUSHER_UID=optional_user_uid
 ```
 
-> ⚠️ **安全提示**：请勿将 `.env` 文件提交到公共仓库，可使用 `git update-index --skip-worktree .env`、pre-commit 钩子或 CI 检测等方式保护凭证。
-
 ------
 
 ## 用法
