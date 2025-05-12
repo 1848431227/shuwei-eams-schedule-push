@@ -1,0 +1,4 @@
+requests>=2.32.3
+beautifulsoup4>=4.13.4
+python-dotenv>=1.1.0
+pycryptodome>=3.22.0
